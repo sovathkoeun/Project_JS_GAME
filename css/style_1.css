@@ -1,0 +1,21 @@
+
+.container{
+    width: 600px;
+    margin: 0 auto;
+}
+/* design button */
+button{
+    background: orange;
+    border: none;
+    width: 15%;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+    color: white;
+}
+/* put image or letter at center */
+h2{
+    text-align: center;
+    margin-top: 50px;
+}
